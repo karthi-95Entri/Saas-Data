@@ -1,0 +1,5 @@
+Plan Summary
+
+Basic Plan: 2 customers
+Pro Plan: 4 customers
+Premium Plan: 1 customer
